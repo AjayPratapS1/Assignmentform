@@ -16,7 +16,7 @@ const DetailsForm = () => {
     // console.log("user Data", data);
     try {
       setLoading(true);
-      const res = await axios.post('https://formassignmet.vercel.app/api/v1/user', data);
+      const res = await axios.post('https://form-uofq.onrender.com/api/v1/user', data);
       toast("Data Save Successfully!");
       // console.log("result", res);
       setLoading(false);
