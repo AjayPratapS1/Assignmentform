@@ -1,10 +1,10 @@
-# Project Title
+# Assignment
 
-Welcome to the Project Title repository! This project aims to sore data in sql database.
+This project aims to store data in MYSQL database.
 
 ## Demo Video
 
 Check out this demo video to see the project in action:
 
-[![Assignment](https://youtu.be/YUKWLZA1F-Q)](https://youtu.be/YUKWLZA1F-Q)
+[![Assignment](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/YUKWLZA1F-Q)
 
